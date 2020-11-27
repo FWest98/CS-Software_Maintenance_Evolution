@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<local-project language="java" version="5.0.15419" xml-version="3" flavor="j2se">
+  <property name="show-as-module" value="false" />
+  <property name="publish-architecture-artifacts" value="true" />
+  <property name="force-classpath" value="false" />
+  <property name="project-type" value="classpath" />
+  <property name="hide-externals" value="true" />
+  <property name="parse-archive-in-archive" value="false" />
+  <property name="include-injected-dependency" value="false" />
+  <property name="relative-to" value="const(THIS_FILE)" />
+  <property name="action-set-mod" value="1" />
+  <property name="detail-mode" value="true" />
+  <property name="hide-deprecated" value="false" />
+  <property name="resolve-name-clashes" value="true" />
+  <property name="project-excluded" />
+  <property name="show-needs-to-compile" value="false" />
+  <classpath>
+    <classpathentry kind="lib" path="../Mina/mina-core/target/classes" module="mina-core" displaymodule="mina-core" />
+    <classpathentry kind="lib" path="../Mina/mina-example/target/classes" module="mina-example" displaymodule="mina-example" />
+    <classpathentry kind="lib" path="../Mina/mina-filter-compression/target/classes" module="mina-filter-compression" displaymodule="mina-filter-compression" />
+    <classpathentry kind="lib" path="../Mina/mina-http/target/classes" module="mina-http" displaymodule="mina-http" />
+    <classpathentry kind="lib" path="../Mina/mina-integration-beans/target/classes" module="mina-integration-beans" displaymodule="mina-integration-beans" />
+    <classpathentry kind="lib" path="../Mina/mina-integration-jmx/target/classes" module="mina-integration-jmx" displaymodule="mina-integration-jmx" />
+    <classpathentry kind="lib" path="../Mina/mina-integration-ognl/target/classes" module="mina-integration-ognl" displaymodule="mina-integration-ognl" />
+    <classpathentry kind="lib" path="../Mina/mina-integration-xbean/target/classes" module="mina-integration-xbean" displaymodule="mina-integration-xbean" />
+    <classpathentry kind="lib" path="../Mina/mina-legal/target/classes" module="mina-legal" displaymodule="mina-legal" />
+    <classpathentry kind="lib" path="../Mina/mina-statemachine/target/classes" module="mina-statemachine" displaymodule="mina-statemachine" />
+    <classpathentry kind="lib" path="../Mina/mina-transport-apr/target/classes" module="mina-transport-apr" displaymodule="mina-transport-apr" />
+  </classpath>
+  <pom-root-files />
+  <modules-in-scope />
+  <restructuring>
+    <set version="3" name="Action list 1" hiview="Codemap" active="true" todo="false" list="0" />
+  </restructuring>
+  <grid-set sep="." version="5.0.15419" />
+</local-project>

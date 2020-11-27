@@ -1,0 +1,12 @@
+[submodule "Mina"]
+	path = Mina
+	url = git@github.com:apache/mina.git
+[submodule "PACITO"]
+	path = PACITO
+	url = git@github.com:FWest98/PACITO.git
+[submodule "Pinot"]
+	path = Pinot
+	url = git@github.com:FWest98/Pinot.git
+[submodule "Report"]
+	path = Report
+	url = git@github.com:FWest98/SME_Report.git
