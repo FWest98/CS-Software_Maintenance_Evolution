@@ -1,1 +1,1 @@
-Python code for pattern data pre-processing and quantiatative analysis (including figures).
+Python code for pattern data pre-processing and quantitative analysis (including figures).
